@@ -19,7 +19,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media.tenor.com/xKr1nlG8rgsAAAAj/spookiline-hi.gif" align="right" width="250">
+<img src="https://media.tenor.com/xKr1nlG8rgsAAAAj/spookiline-hi.gif" align="right" width="200">
   </div>
 <li>
  <b>Имя:</b> Байнов Максим</li>
