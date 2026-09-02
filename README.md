@@ -46,7 +46,7 @@
   <br>
 <p align="center">
   <img src="https://img.shields.io/badge/CS2-%23FF6A00.svg?&style=for-the-badge&logo=counter-strike&logoColor=white"/> <img src="https://img.shields.io/badge/osu!-%23FF66AA.svg?&style=for-the-badge&logo=osu&logoColor=white"/> <img src="https://img.shields.io/badge/Anime-%239B59B6.svg?&style=for-the-badge&logo=crunchyroll&logoColor=white"/> <img src="https://img.shields.io/badge/CyberSport-%23000000.svg?&style=for-the-badge&logo=eslgaming&logoColor=white"/> <br><br>
-Надеюсь в дальнейшем тут будут language :>
+Надеюсь в дальнейшем тут будут languages :>
 </p>
 <br>
 <br>
