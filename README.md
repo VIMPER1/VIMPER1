@@ -39,7 +39,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://media1.tenor.com/m/TK4Gh6yheqcAAAAC/%D0%BA%D1%81-2-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%81%D0%BF%D0%BE%D1%80%D1%82.gif" align="right" width="500">
+<img src="https://i.ibb.co.com/3y3hhrsb/image.png" align="right" width="500">
   </div>
 </div>
 <div>
