@@ -24,7 +24,7 @@
 <li>
  <b>Имя:</b> Байнов Максим</li>
 <li>
-<b>Люблю:</b> anime, osu, cs2
+<b>Люблю:</b> anime, osu, cs2, valorant
 </li>
 <li>
 <b>Пол:</b> Мужичок
