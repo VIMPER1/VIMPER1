@@ -39,7 +39,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.ibb.co.com/3y3hhrsb/image.png" align="right" width="300" height="400">
+<img src="https://i.ibb.co.com/3y3hhrsb/image.png" align="right" width="300" weight="400">
   </div>
 </div>
 <div>
